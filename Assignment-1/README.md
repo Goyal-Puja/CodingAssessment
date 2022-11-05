@@ -6,7 +6,8 @@ a. Table
     ii.  The header rows should be S.No., First Name, Last Name, City, Country.
     iii. Fill the table with realistic data.
     
- ![](https://user-images.githubusercontent.com/47891452/200136429-2cfc9e8f-50e0-4df5-9e39-1a5fc59be18a.jpg)
+ ![](https://user-images.githubusercontent.com/47891452/200136475-89af82c6-a2d5-497c-bce1-e01e69e53027.JPG)
+
 
     
 b. Buttons
