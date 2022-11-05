@@ -21,3 +21,6 @@
                1. Sentence: Hello World!
                2. Letter: o
                3. Result: World1
+               
+![](https://user-images.githubusercontent.com/47891452/200137093-ee11b392-005b-4b76-8a95-be27f03f6ea9.JPG)
+             
